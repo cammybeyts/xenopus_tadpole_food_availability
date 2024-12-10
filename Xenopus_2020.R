@@ -1,9 +1,6 @@
 #---------------------------------------------------------------------#
 # R script associated with the paper "Food availability early in life #
-# impacts among and within individual variation in behaviour"         #                                               #
-# Author: Cammy Beyts                                                 #
-# ORCID ID: 0000-0002-4729-2982                                       #
-# Email: cammy.beyts@ed.ac.uk                                         #
+# impacts among and within individual variation in behaviour"         #                                               
 # Date: First created Feb 2023.  Last modified 23 Feb 2023            #
 #---------------------------------------------------------------------#
 
