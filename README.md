@@ -7,30 +7,6 @@ GENERAL INFORMATION
 
 Title of Dataset: Xenopus_2020_FA
 
-Author/Principal Investigator Information
-Name: Cammy Beyts
-ORCID: 0000-0002-4729-2982
-Institution: Edinburgh University
-Address: The Roslin Institute and R(D)SVS, University of Edinburgh, Easter Bush, UK
-Email: cammy.beyts@ed.ac.uk
-
-Name: Julien G.A. Martin
-ORCID: 0000-0001-7726-6809
-Institution: University of Ottawa
-Address: Department of Biology, University of Ottawa, Canada
-
-Name: Nick Colegrave
-Institution: University of Edinburgh
-Address: Institute of Ecology and Evolution, School of Biological Sciences, University of Edinburgh, UK
-
-Name: Patrick Walsh
-Institution: University of Edinburgh
-Address: Institute of Ecology and Evolution, School of Biological Sciences, University of Edinburgh, UK
-
-
-Date of data collection: 2020
-
-Geographic location of data collection: Edinburgh University, UK
 
 Information about funding sources that supported the collection of the data: 
 This project was funded by a NERC doctoral training partnership grant (NE/L002558/1) awarded to CB.  The NERC Professional Internship Programme funded collaboration with JM at Ottawa University. Funding was also provided by The School of Biology, The University of Edinburgh through funding received by PW.
